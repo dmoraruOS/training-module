@@ -11,3 +11,5 @@ This is a training module. :)
 Hopefully this is detailed enough.
 
 **This will close the issue.**
+
+This is some extra training.
