@@ -9,3 +9,5 @@ This is a training module. :)
 ## Training tests
 
 Hopefully this is detailed enough.
+
+**This will close the issue.**
