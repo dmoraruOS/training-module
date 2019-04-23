@@ -7,3 +7,5 @@ This is a training module. :)
 <br>
 
 ## Training tests
+
+Hopefully this is detailed enough.
